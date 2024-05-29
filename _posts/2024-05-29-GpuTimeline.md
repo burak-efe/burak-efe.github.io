@@ -1,6 +1,6 @@
 ---
 title: Timeline of Modern GPU Architectures
-date: YYYY-MM-DD HH:MM:SS +/-TTTT
+date: 2024-05-29
 categories: [GPU]
 tags: [GPU]     
 ---
