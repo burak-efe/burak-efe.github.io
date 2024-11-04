@@ -30,7 +30,7 @@ That's way we need to introduce more and complexity
  And there is no need to look at to a java codebase, even a basic C codebase has all of this middle products.
  Lets think one level upper of abstractions that many of the low level languages have;
  
- Data: Data on ram, data on disk, data on web, static data, global data, dat on heap, data on stack, data that need to be parsed, data that need to encrypted, data that cannot be trusted, 
+ Data: Data on ram, data on disk, data on web, static data, global data, data on heap, data on stack, data that need to be parsed, data that need to encrypted, data that cannot be trusted, 
  Metadata, data that just a view, data that need to be secure, data that point another data, data that point a function, 
  
  Processing: Functions, Methods, overloaded functions, functions that have implicit state, functions that mutate, functions that does not mutate, functions that allocate, functions that removes ownership or delete
