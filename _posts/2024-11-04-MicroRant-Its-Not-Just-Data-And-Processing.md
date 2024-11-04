@@ -1,6 +1,5 @@
-
 ---
-title: MicroRant; It's Not Just Data And Processing
+title: MicroRant - It's Not Just Data And Processing
 date: 2024-11-04
 categories: [MicroRant]
 tags: [DOD]     
