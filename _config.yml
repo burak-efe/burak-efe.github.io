@@ -16,7 +16,7 @@ timezone:
 
 title: Burak Efe # the main title
 
-tagline: programmer # it will display as the sub-title
+tagline: Graphics Programmer | Vulkan - C++ enjoyer    # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Outputs from my biological neural network
@@ -24,7 +24,6 @@ description: >- # used by seo meta and the atom feed
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://burak-efe.github.io"
-#url: "https://burakefe.dev"
 
 github:
   username: burak-efe # change to your github username
@@ -97,7 +96,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: /assets/pp.jpg
+avatar: /assets/pp.jpeg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
