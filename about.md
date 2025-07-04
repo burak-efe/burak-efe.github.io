@@ -1,8 +1,21 @@
 ---
 layout: post
-title: About
+title: About Me
 ---
 
-This is an example page!
+Hi,
+Im Burak.
+Im programmer who works on Computer Graphics and Game engine Development.
 
-Actually, it has the same layout of a post...
+I mostly use these languages:
+- C++
+- C#
+- Phyton
+
+And work with these api/frameworks:
+- Vulkan
+- WebGPU
+- Imgui
+- SDL
+- glfw
+- qt

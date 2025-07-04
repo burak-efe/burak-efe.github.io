@@ -2,7 +2,7 @@ title: Burak's Blog
 author: Burak Efe
 url: https://burakefe.dev # root address of the site
 description: > # description of the site (multiple lines allowed)
- The Blog
+ Have a seat!
 
 permalink: /:slug
 
@@ -33,10 +33,10 @@ theme_config:
   show_tags: true # show tags in a blog posts
   # options for "home" page
   home:
-    title_projects: Portfolio
+    title_projects: My Projects
     title_misc_list: Details
     title_blog: Blog
-    title_old_projects: Old Projects
+    title_old_projects: Tiny Projects/Experiments
 
 soopr:
   publish_token: "" # sign up at https://www.soopr.co to get your publish token and personalize share and reaction options
