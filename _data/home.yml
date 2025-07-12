@@ -9,10 +9,10 @@ navbar_entries:
     url: blog
 
 project_entries:
-  - title: VuMake
+  - title: VuMake <br>
     url: https://github.com/burak-efe/VuMake
     desc: A Modern Vulkan Renderer
-    highlight: <br> C++ | Vulkan
+    highlight: C++ | Vulkan
 
   - title: Ica Skinned Mesh
     url: https://assetstore.unity.com/packages/tools/animation/ica-skinned-mesh-283380
