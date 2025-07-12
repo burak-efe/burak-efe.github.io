@@ -5,6 +5,9 @@ navbar_entries:
   - title: blog posts
     url: blog
 
+  - title: blog posts
+    url: my_way_of_programming
+
 project_entries:
   - title: VuMake
     url: https://github.com/burak-efe/VuMake
