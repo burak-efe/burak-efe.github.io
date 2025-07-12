@@ -9,17 +9,17 @@ navbar_entries:
     url: blog
 
 project_entries:
-  - title: _   VuMake   _
+  - title: VuMake
     url: https://github.com/burak-efe/VuMake
     desc: A Modern Vulkan Renderer
     highlight: C++ | Vulkan
 
-  - title: _   Ica Skinned Mesh   _
+  - title: Ica Skinned Mesh
     url: https://assetstore.unity.com/packages/tools/animation/ica-skinned-mesh-283380
     desc: Dual Quaternion mesh skinner with many features for Unity Engine
     highlight: Proprietary | HLSL | C#
 
-  - title: _   Ica Normal Tools   _
+  - title: Ica Normal Tools
     url: https://github.com/burak-efe/Ica_Normal_Tools
     desc: Mesh Calculation Utilities for Unity Engine
     highlight: C# | Unity

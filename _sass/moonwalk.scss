@@ -158,6 +158,7 @@ html.transition *:after {
   margin: 0.5em 0;
 }
 mark {
+  display: block;
   padding: 0.4em;
   background-color: var(--highlight);
   font-size: 0.6em;
