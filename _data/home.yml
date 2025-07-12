@@ -14,33 +14,33 @@ project_entries:
     desc: A Modern Vulkan Renderer
     highlight: C++ | Vulkan
 
-  - title: Ica Skinned Mesh
+  - title: Ica Skinned Mesh <br>
     url: https://assetstore.unity.com/packages/tools/animation/ica-skinned-mesh-283380
     desc: Dual Quaternion mesh skinner with many features for Unity Engine
     highlight: Proprietary | HLSL | C#
 
-  - title: Ica Normal Tools
+  - title: Ica Normal Tools <br>
     url: https://github.com/burak-efe/Ica_Normal_Tools
     desc: Mesh Calculation Utilities for Unity Engine
     highlight: C# | Unity
 
 old_project_entries:
-  - title: Hello WebGPU
+  - title: Hello WebGPU <br>
     url: https://webgpu-thingy.pages.dev/
     desc: An experiment with WebGPU via emscripten C++
-    highlight: C++ | WebGPU
+    highlight: un on Browser | C++ | WebGPU
 
-  - title: VertexPack
+  - title: VertexPack <br>
     url: https://ica-dev.itch.io/octahedron-encoding
     desc: Visualizing Octahedron Encoded Normals and Diamond Encoded Tangents at different bit size.
-    highlight: Play on Browser | C#
+    highlight: Run on Browser | C#
 
-  - title: VuMakeSC
+  - title: VuMakeSC <br>
     url: https://github.com/burak-efe/VuMakeSC
     desc: A port VuMake to Vulkan Safety Critical API
     highlight: C/C++ | VulkanSC
 
-  - title: IcaDX12
+  - title: IcaDX12 <br>
     url: https://github.com/burak-efe/IcaDx12
     desc: Hello triangle on DirectX12
     highlight: C++ | DX12
